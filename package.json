@@ -1,0 +1,23 @@
+{
+    "name": "hayapp",
+    "version": "0.0.0",
+    "description": "hayapp",
+    "main": "index.js",
+    "engines": {
+      "node": "6"
+    },
+    "scripts": {
+      "start": "node index",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "Hayato-Fukaya/hayapp"
+    },
+    "keywords": [
+      "heroku"
+    ],
+    "private": false,
+    "author": "Hayato-Fukaya",
+    "license": "MIT"
+  }
